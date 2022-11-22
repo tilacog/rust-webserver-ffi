@@ -9,7 +9,7 @@ $ npm install
 
 ## run
 
-This will spin a HTTP server at `https://localhost:3000`.
+This will spin an HTTP server at `https://localhost:3000`.
 
 ```bash
 $ node
