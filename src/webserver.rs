@@ -1,4 +1,5 @@
-/// This entire source file was copied from https://github.com/tokio-rs/axum#usage-example
+// This entire source file was copied from:
+// https://github.com/tokio-rs/axum/blob/7cbb7cf1354fe3ea4c8c2774bf7616e382caf8d0/axum/README.md?plain=1#L32-L99
 
 use axum::{
     http::StatusCode,
