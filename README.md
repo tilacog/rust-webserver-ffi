@@ -2,6 +2,7 @@
 POC for running a rust webserver in Node
 
 ## build
+This requires `npm` and `cargo` to be installed.
 
 ```bash
 $ npm install
