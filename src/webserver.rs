@@ -1,3 +1,5 @@
+/// This entire source file was copied from https://github.com/tokio-rs/axum#usage-example
+
 use axum::{
     http::StatusCode,
     response::IntoResponse,
